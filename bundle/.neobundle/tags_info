@@ -1,0 +1,8 @@
+TwitVim
+neobundle.vim
+neocomplcache
+taglist.vim
+unite.vim
+vim-powerline
+vimproc
+vimshell
